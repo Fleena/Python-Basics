@@ -1,1 +1,1 @@
-# python basic for string DS
+Working with python basic datatypes and inbuilt python datastructures
